@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579513094 source:solution8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

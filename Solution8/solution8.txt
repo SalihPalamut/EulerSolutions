@@ -1,0 +1,8 @@
+4 ardisik carpim sonucu = 4536 elemanlar baslangic 365'dan 369. elemana kadar.
+9 9 8 7
+10 ardisik carpim sonucu = 493807104 elemanlar baslangic 362'dan 372. elemana kadar.
+11 ardisik carpim sonucu = 940584960 elemanlar baslangic 199'dan 210. elemana kadar.
+12 ardisik carpim sonucu = 4702924800 elemanlar baslangic 198'dan 210. elemana kadar.
+13 ardisik carpim sonucu = 23514624000 elemanlar baslangic 198'dan 211. elemana kadar.
+14 ardisik carpim sonucu = 70573265280 elemanlar baslangic 499'dan 513. elemana kadar.
+15 ardisik carpim sonucu = 282293061120 elemanlar baslangic 499'dan 514. elemana kadar.
